@@ -33,5 +33,5 @@ I’m Edith Cherotich, a Cloud Engineer and AWS Solutions Architect based in Nai
 ## 💬 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/edith-cherotich/)
-- [Gmail][edithcherotich32@gmail.com](mailto:edithcherotich32@gmail.com)
+- [edithcherotich32@gmail.com](mailto:edithcherotich32@gmail.com)
 
