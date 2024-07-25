@@ -11,17 +11,6 @@ I’m Edith Cherotich, a Cloud Engineer and AWS Solutions Architect based in Nai
 - **Email:** [edithcherotich32@gmail.com](mailto:edithcherotich32@gmail.com)
 - **Phone:** +254700556477
 
-## 🔧 Skills
-
-- **Cloud:** AWS
-- **Cloud Architecture**
-- **Networking**
-- **Terraform**
-- **Databases**
-- **Security**
-- **Python**
-- **Linux**
-
 ## 🏆 Certifications
 
 - AWS Certified Solutions Architect - Associate
@@ -37,19 +26,6 @@ I’m Edith Cherotich, a Cloud Engineer and AWS Solutions Architect based in Nai
 - Advanced CI/CD techniques
 - Kubernetes
 
-## 💼 Experience
-
-- Freelance Solutions Architect at Fiverr since May 2023
-- AWS re/Start Program graduate
-
-## 🎉 Interests
-
-- Attending AWS re:Invent 2024
-
-## 📄 Resume
-
-- [View My Resume](https://resumebucket1032.s3.amazonaws.com/resume.html)
-
 ## 📝 Blog
 
 - [Medium Blog](https://medium.com/@edithcherotich32)
@@ -57,6 +33,5 @@ I’m Edith Cherotich, a Cloud Engineer and AWS Solutions Architect based in Nai
 ## 💬 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/edith-cherotich/)
-- [Twitter](https://twitter.com/edithcherotich)
+- [Gmail][edithcherotich32@gmail.com](mailto:edithcherotich32@gmail.com)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EKechei&show_icons=true&theme=radical)
