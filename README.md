@@ -1,6 +1,6 @@
 # Edith Cherotich
 
-Cloud Engineer | AWS Certified Solutions Architect | 
+Cloud Engineer | AWS Certified Solutions Architect 
 
 ## 👋 Hello!
 
