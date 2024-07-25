@@ -4,7 +4,7 @@ Cloud engineer | AWS Certified Solutions Architect | Passionate about cloud infr
 
 ## 👋 Hello!
 
-I’m Edith Cherotich, a Cloud Engineer and AWS Solutions Architect based in Nairobi, Kenya. I specialize in AWS, CI/CD pipelines, Infrastructure as Code (IaC), and various cloud technologies.
+Hello! I'm Edith Cherotich, a passionate Cloud Engineer and AWS Certified Solutions Architect from Nairobi, Kenya. I thrive on creating innovative cloud solutions that are both efficient and scalable. With expertise in a wide array of cloud technologies, I aim to build secure and robust infrastructures that drive success.
 
 ## 🏆 Certifications
 
