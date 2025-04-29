@@ -1,6 +1,6 @@
 # Edith Cherotich
 
-AWS Cloud Engineer 
+Cloud & DevOps Engineer 
 
 ## 👋 Hello!
 
